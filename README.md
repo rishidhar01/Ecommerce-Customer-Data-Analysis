@@ -4,8 +4,6 @@ An end-to-end **Customer Shopping Behavior Analytics project** that uses Python,
 
 The project follows a complete data analytics workflow — from data exploration and cleaning to database integration, SQL-based business analysis, interactive Power BI visualization, and business recommendations.
 
-## Project Overvi# **📊 Customer Shopping Behavior Analysis | SQL • Python • PostgreSQL • Power BI**ew
-
 Understanding customer shopping behavior is important for businesses because customer purchasing patterns can influence marketing strategies, product positioning, subscription programs, discounts, and customer retention.
 
 This project analyzes a customer shopping dataset containing **3,900 records and 18 attributes** to understand how customers purchase products, how much revenue different customer groups contribute, which products perform well, how discounts influence purchases, and how subscription status relates to customer behavior.
